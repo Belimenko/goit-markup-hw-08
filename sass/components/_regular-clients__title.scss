@@ -1,0 +1,14 @@
+.regular-clients__title {
+  margin-bottom: 50px;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.166;
+  text-align: center;
+
+  color: var(--secondary-text-color);
+
+  @media screen and (max-width: 767.99px) {
+    font-size: 28px;
+    line-height: 1.18;
+  }
+}
